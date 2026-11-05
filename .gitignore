@@ -1,0 +1,8 @@
+# Secrets
+.env
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+OPEN_AI_API_KEY=replace-with-your-key
