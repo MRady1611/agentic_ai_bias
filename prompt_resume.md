@@ -4,4 +4,4 @@ There should be no indicators of gender, race or age (including names, experienc
 
 Put the resume in the appropiate subfolder (/home/smutchle/ads_5984/agentic_ai_bias/cv).
 
-Name the file srm_resume.md.
+Name the file npn_resume.md.
